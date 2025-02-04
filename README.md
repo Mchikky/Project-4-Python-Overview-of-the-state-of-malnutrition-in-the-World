@@ -1,4 +1,4 @@
-# Project 4: Overview the state of malnutrition in the World
+# Project 4: Overview of the state of malnutrition in the World
 
 ## Objectives
 Analysis of the state of malnutrition in the World using Food and Agricultural Organisation (FAO) data to analyse malnutrition,food security, and nutritional status.
