@@ -39,7 +39,9 @@ Analysis of the state of malnutrition in the World using Food and Agricultural O
 - 88% of the population can be fed using plant products in 2017.
 - Haiti has the highest number of malnourished people, followed by Democratic People's Republic of Korea and Madagascar in 2017.
 - Republic Arabe Syrian received the highest food assistance in 2017.
+  
 <img width="632" alt="Countries with the highest and lowest food availability" src="https://github.com/user-attachments/assets/f9c5da3b-0c2c-4749-b5fd-f0cfe5c1b0bd" />
+
 - Austria has the highest food availability per capita in 2017
 - 69% of plant products such as cereals are used for animal feed while 18% is for human consumption in 2017.
 - Thailand exports 83% of the cassava produced in 2017.
