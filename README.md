@@ -29,7 +29,7 @@ Analysis of the state of malnutrition in the World using Food and Agricultural O
 - Use horizontal bar chart to display the countries with the highest number of malnourished people.
   
 ## Insights
-### Allocation of internal food supply 
+### Allocation of internal food available
 <img width="650" alt="food" src="https://github.com/user-attachments/assets/98d13005-e5ce-4ee3-8df7-26c015a86850" />
 
 ### 10 top countries with the highest proportion of malnourished people in 2017
