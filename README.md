@@ -29,6 +29,9 @@ Analysis of the state of malnutrition in the World using Food and Agricultural O
 - Use horizontal bar chart to display the countries with the highest number of malnourished people.
   
 ## Insights
+### Percentage of Interior food Distribution 
+<img width="650" alt="food" src="https://github.com/user-attachments/assets/98d13005-e5ce-4ee3-8df7-26c015a86850" />
+
 - The proportion of food availability by adult in 2017 is 107%.
 - 88% of the population can be fed using plant products in 2017.
 - Haiti has the highest number of malnourished people, followed by Democratic People's Republic of Korea and Madagascar in 2017.
