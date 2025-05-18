@@ -1,13 +1,11 @@
-# Project 4: Overview of the state of malnutrition in the World
+# Project 4: Conduct a public health study with Python - Overview of the state of malnutrition in the World
 
 ## Objectives
-Analysis of the state of malnutrition in the World using Food and Agricultural Organisation (FAO) data to analyse malnutrition,food security, and nutritional status.
+Overview of the state of malnutrition in the world using Food and Agricultural Organisation (FAO) data to analyse malnutrition,food security, and nutritional status.
+1. The proportion of people who are undernourished;
+2. The theoretical number of people who could be fed. You should be able to calculate this from global food availability; the same for the food availability of plant products; the use of domestic food supply, particularly the share allocated to animal feed, the share that is wasted, and the share actually used for human consumption. 
+3. Provide us with the countries where the proportion of undernourished people was highest in 2017, those that have benefited most from aid since 2013, those with the highest/lowest availability per capita, etc., and any information you find useful to highlight the countries that seem to be in the most difficulty, food-wise.
 
-## Mission
-- Proportion of the population in the state of malnutrition.
-- Number of persons that can be fed from the World's food supply.
-- Number of persons that can be fed from the plant products.
-- Calculate the proportion of internal food availability allocated to animal feed, attributed to loss, and concretely used for human.
   
 ## Data sources
 - FAO data: aide_alimentaire (food aid or assistance), disponibilté_alimentaire (food availability), population, sous_nutrition (malnutrition).
